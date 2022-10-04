@@ -1,0 +1,44 @@
+:host {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: linear-gradient(0deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+    min-height: 50px;
+
+    .links {
+        a {
+            margin: 0px 10px;
+            color: white;
+            cursor: pointer;
+            text-decoration: none;
+
+            :hover {
+                color: #ddd;
+            }
+        }
+    }
+
+    .copyright {
+        color: #ddd;
+        padding-right: 10px;
+    }
+
+    @media only screen and (max-width: 767px) {
+        .links {
+            display: flex;
+            flex-flow: column;
+            margin: 10px 0px;
+
+            a {
+                margin-top: 5px;
+            }
+        }
+
+        .copyright {
+            text-align: center;
+        }
+    }
+}

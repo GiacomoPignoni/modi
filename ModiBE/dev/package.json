@@ -1,0 +1,16 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gen:token": "node generate-firebase-token.js",
+    "gen:all-notes": "node generate-all-year-notes.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.1.1",
+    "firebase-admin": "^9.12.0"
+  }
+}

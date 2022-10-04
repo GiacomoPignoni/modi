@@ -1,0 +1,243 @@
+{
+  "nickname": "Nickname",
+  "email": "Email",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "done": "Done",
+  "nicknameAlreadyUsed": "Nickname already exists",
+  "close": "Close",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "me": "Me",
+  "yes": "Yes",
+  "no": "No",
+  "termsAndConditions": "Terms and Conditions",
+  "and": " and ",
+  "privacyPolicy": "Privacy Policy",
+  "notesService": {
+    "noteSubmitted": "Your note has been submitted.",
+    "noteDeleted": "Your note has been deleted",
+    "noteUpdated": "Your note has been updated"
+  },
+  "loginPage": {
+    "login": "Login",
+    "orLoginWith": "OR LOGIN WITH",
+    "notHaveAccount": "Don't have an account?",
+    "forgotPassword": "Forgot Password?"
+  },
+  "signUpPage": {
+    "signUp": "Sign Up",
+    "orSignUpWith": "OR SIGN UP WITH",
+    "alreadyHaveAnAccount": "Already have an account?",
+    "bySignup": "Signing up, you acknowledge that you have read and understood, and agree to Modi's "
+  },
+  "askNicknameDialog": {
+    "title": "Enter a nickname!",
+    "text": "You are a new user, please enter a nickname"
+  },
+  "askPasswordDialog": {
+    "title": "Enter your password",
+    "text": "You have to re-enter your password to edit your profile"
+  },
+  "resetPasswordPage": {
+    "resetPassword": "Reset Password",
+    "confirm": "Confirm",
+    "rememberPassword": "Remember password?",
+    "enterEmailText": "Enter the email address associated with your account and we'll send an email with instructions to reset your password.",
+    "emailSentText": "We have sent a password recover instructions to your email.",
+    "checkYourEmail": "Check your email",
+    "backToLogin": "Back to login",
+    "tryAnotherEmail": "try another email address",
+    "didNotReceiveEmail": "Did not receive the email? Check your spam filter, or"
+  },
+  "homePage": {
+    "logout": "Logout",
+    "hi": "Hi, {}!",
+    "submit": "Submit",
+    "update": "Update",
+    "writeYourNote": "Write your note here...",
+    "youHaveAlreadyWritten": "You have already written a note for this day",
+    "haveToSelectMood": "You have to select a mood to submit this note",
+    "todayWarning": "This note will only be editable and visible today",
+    "combo": "Combo: ",
+    "drawer": {
+      "shop": "Shop",
+      "readNotes": "Read Notes",
+      "partner": "Partner",
+      "editProfile": "Edit Profile",
+      "info": "Info"
+    }
+  },
+  "editProfilePage": {
+    "title": "Edit Profile",
+    "saveChanges": "Save Changes",
+    "passwordsMustMatch": "Both passwords must match",
+    "nicknameUpdated": "Nickname successfully updated!",
+    "emailUpdated": "Email successfully updated!",
+    "passwordUpdated": "Password successfully updated!",
+    "youCantChange": "You can't change your email or password because you are logged in with some social account"
+  },
+  "confirmDeleteDialog": {
+    "title": "Are you sure?",
+    "text": "You are about to delete the note written on",
+    "thisProcessCannotBeUndone": "This process cannot be undone",
+    "deleteNote": "Delete Note"
+  },
+  "partnerPage": {
+    "title": "Partner",
+    "noPartner": "You don't have a partner",
+    "partnerRequests": "Partner Requests",
+    "sendRequest": "Send a Request",
+    "confirmRemovePartnerTitle": "Remove Partner",
+    "confirmRemovePartnerText": "Are you sure you want to remove {} as a partner?",
+    "confirmRejectRequestTitle": "Rejecting request",
+    "confirmRejectRequestText": "Are you sure you want to reject the request from {}",
+    "removePartner": "Remove partner",
+    "yourPartnerIs": "You partner is",
+    "sendPartnerNotification": "Send a reminder to partner",
+    "reminderSent": "Reminder sent!",
+    "noRequests": "No requests"
+  },
+  "sendPartnerRequestDialog": {
+    "title": "Send Request",
+    "text": "Insert the nickname of the partner you want to add",
+    "partnerNickname": "Partner nickname",
+    "send": "Send",
+    "removePartner": "Remove Partner"
+  },
+  "userService": {
+    "partnerRequestSent": "Request sent to {}!",
+    "partnerRemoved": "Partner {} removed"
+  },
+  "shopPage": {
+    "title": "Shop",
+    "randomTitle": "Random",
+    "randomText": "Unlock a note from a random date",
+    "randomMonthTitle": "Select Month",
+    "randomMonthText": "Unlock a random note from the selected month",
+    "noteTitle": "Select Exact Date",
+    "noteText": "Unlock a note from the selected date",
+    "price": "$ {}",
+    "askMonthDialogTitle": "Select a month",
+    "askMonthDialogText": "Select a month",
+    "askMonthDialogHint": "Choose month",
+    "askDateDialogTitle": "Select a date",
+    "askDateDialogText": "Select a date"
+  },
+  "tutorialPage": {
+    "next": "Next",
+    "finish": "Finish",
+    "firstTitle": "Write notes everyday!",
+    "firstText": "Write something about your day and select your mood.\nThe notes will not readable until the new year.",
+    "secondTitle": "Read your notes!",
+    "secondText": "At the end of the year you will be able to read all your notes.\nOr you can also use some tokens to unlock your notes before the end of the year.\n\nYou'll earn 1 token every time you write the today note.\nYou'll also earn 7 tokens every time you make a 7 combo, that is when you write a note every 7 consecutive days.",
+    "thirtTitle": "Add a partner!",
+    "thirtText": "A partner is someone that can see your mood calendar and also see all your unlocked notes.\nYou can also send your partner a notification to remind her/him to write a note.",
+    "fourthTitle": "Enable push notification!",
+    "fourthText": "We are going to ask for your permission to send you push notification.\nWe will use it to update data from your partner."
+  },
+  "shopProductDetailsDialog": {
+    "randomTitle": "Random",
+    "randomText": "Unlock a note from a random date",
+    "randomMonthTitle": "Select Month",
+    "randomMonthText": "Unlock a random note from the selected month",
+    "noteTitle": "Select Exact Date",
+    "noteText": "Unlock a note from the selected date",
+    "price": "$ {}",
+    "buy": "Buy"
+  },
+  "readNotesPageInfoDialog": {
+    "title": "Read all your notes!",
+    "text": "In this page you can read all your unlocked notes, or all the notes of the previous years"
+  },
+  "partnerPageInfoDialog": {
+    "title": "You can have a partner!",
+    "text": "A partner is someone who can view all your unlocked notes and your mood calendar"
+  },
+  "shopPageInfoDialog": {
+    "title": "How to obtain tokens?",
+    "text": "You'll earn 1 token every time you write the today note.\nYou'll also earn 7 tokens every time you make a 7 combo, that is when you write a note every 7 consecutive days.",
+    "notifyMe": "Notify me"
+  },
+  "partnerRequestDialog": {
+    "title": "New partner request!",
+    "text": "You received a partner request from ",
+    "partnerPage": "Partner page"
+  },
+  "partnerReminderDialog": {
+    "title": "A reminder from your partner!",
+    "text": "{} is reminding you to write your note!"
+  },
+  "partnerAcceptedDialog": {
+    "title": "You have a partner!",
+    "text": "{} accepted your partner request!"
+  },
+  "partnerRemovedDialog": {
+    "title": "Oh no!",
+    "text": "{} removed you as a partner"
+  },
+  "unlockedNoteDialog": {
+    "title": "Congratulations!",
+    "unlockedFrom": "You have unlocked a note from",
+    "youWere": "You were",
+    "andYouWritten": "And you have written"
+  },
+  "comboDialog": {
+    "title": "Yay! A Combo!",
+    "text": "You wrote a note for {} consecutive days! You've earned {} tokens!",
+    "subText": "Now you have a total of {} tokes!",
+    "goToShop": "Go to Shop"
+  },
+  "infoPage": {
+    "title": "Info",
+    "developedBy": "Developed by Giacomo Pignoni & Irish Lopez",
+    "version": "Version"
+  },
+  "combos": {
+    "mini": "7",
+    "big": "30"
+  },
+  "months": {
+    "1": "January",
+    "2": "February",
+    "3": "March",
+    "4": "April",
+    "5": "May",
+    "6": "June",
+    "7": "July",
+    "8": "August",
+    "9": "September",
+    "10": "October",
+    "11": "November",
+    "12": "December"
+  },
+  "shortDays": {
+    "1": "M",
+    "2": "T",
+    "3": "W",
+    "4": "T",
+    "5": "F",
+    "6": "S",
+    "7": "S"
+  },
+  "errors": {
+    "generic": "Something went wrong, please retry",
+    "error": "Error",
+    "invalid-input": "Invalid data",
+    "nickname-already-exists": "Nickname already exists",
+    "partner-nickname-not-found": "No user found with nickname {}",
+    "partner-already-has-partner": "{} already has a partner",
+    "request-already-sent": "You have already sent a request to {}",
+    "reminder-already-sent": "You have already sent a notification today",
+    "no-notes-to-unlock": "You don't have any notes to unlock",
+    "no-notes-found": "No note found on the selected date",
+    "no-tokens": "You don't have enough tokens",
+    "note-already-unlocked": "You have already unlocked the selected note",
+    "invalid-email": "Invalid email",
+    "user-disabled": "User disabled",
+    "user-not-found": "User not found",
+    "wrong-password": "Wrong credentials",
+    "email-already-in-use": "Email already exists",
+    "weak-password": "The password is too weak"
+  }
+}
